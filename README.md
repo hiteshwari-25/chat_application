@@ -56,3 +56,5 @@ Firebase Authentication (For user login & OTP verification)
 Firebase Firestore (For storing user data)
 
 Firebase Storage (For profile pictures and media files)
+
+Developed by HITESHWARI NARENDRA PUROHIT
